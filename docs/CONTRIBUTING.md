@@ -27,7 +27,7 @@ You can specify the theme an image is displayed to by appending #gh-dark-mode-on
 ![GitHub Dark](https://iili.io/lPyXob.png#gh-dark-mode-only´)
 ![GitHub Light](https://iili.io/lPyXob.png#gh-light-mode-only´)
 
-Relative links
+# Relative links #
 You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 
 A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this:
@@ -38,8 +38,27 @@ GitHub will automatically transform your relative link or image path based on wh
 Here are some examples for using relative links to display an image.
 
 Context	Relative Link
-In a .md file on the same branch	/assets/images/electrocat.png
-In a .md file on another branch	/../main/assets/images/electrocat.png
-In issues, pull requests and comments of the repository	../blob/main/assets/images/electrocat.png
-In a .md file in another repository	/../../../../github/docs/blob/main/assets/images/electrocat.png
-In issues, pull requests and comments of another repository	../../../github/docs/blob/main/assets/images/electrocat.png?raw=true
+- In a .md file on the same branch	/assets/images/electrocat.png
+- In a .md file on another branch	/../main/assets/images/electrocat.png
+- In issues, pull requests and comments of the repository	../blob/main/assets/images/electrocat.png
+- In a .md file in another repository	/../../../../github/docs/blob/main/assets/images/electrocat.png
+- In issues, pull requests and comments of another repository	../../../github/docs/blob/main/assets/images/electrocat.png?raw=true
+
+# Lists #
+You can make an unordered list by preceding one or more lines of text with - or *.
+
+To order your list, precede each line with a number.
+
+1. ennek
+2. most
+3. mi értelme
+4. volt
+5. ááá
+6. értem
+7. magától
+8. megszámozza
+9. ha nyomok egy
+10. entert
+
+
+
