@@ -9,3 +9,6 @@ Most a ` sima quoting kód` tanulásánál járok.
 Command+K 
 DOCS
 ![This is an image](https://www.dreamstime.com/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-image136584574#_)
+
+1:05 van Jó reggelt!
+Még nem sikerült a képet beilleszteni amit tegnap akartam de nem adom fel. :D 
