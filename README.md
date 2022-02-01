@@ -12,3 +12,10 @@ DOCS
 
 1:05 van Jó reggelt!
 Még nem sikerült a képet beilleszteni amit tegnap akartam de nem adom fel. :D 
+# Legnagyobb # 
+## Kisebb ## 
+### Mégkisebb ###
+#### Annál is kisebb #### 
+##### Még annál is kisebb #####
+###### Majdnem a legkisebb ######
+####### Legkisebb #######
