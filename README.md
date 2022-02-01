@@ -6,9 +6,7 @@
 Most a ` sima quoting kód` tanulásánál járok. 
 ```most pedig a teljes szöveg kap egy hátteret ez pz```
 
-Command+K 
-DOCS
-![This is an image](https://www.dreamstime.com/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-image136584574#_)
+![This is an image](https://iili.io/lPpAEQ.jpg)
 
 1:05 van Jó reggelt!
 Még nem sikerült a képet beilleszteni amit tegnap akartam de nem adom fel. :D 
@@ -16,6 +14,6 @@ Még nem sikerült a képet beilleszteni amit tegnap akartam de nem adom fel. :D
 ## Kisebb ## 
 ### Mégkisebb ###
 #### Annál is kisebb #### 
-##### Még annál is kisebb #####
-###### Majdnem a legkisebb ######
-####### Legkisebb #######
+##### Majdnem a legkisebb #####
+###### Legkisebb ######
+
