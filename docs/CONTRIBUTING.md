@@ -84,4 +84,14 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 - [ ] You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
 
 
-![pngtree-programmer-programming-image_2231448](https://user-images.githubusercontent.com/98794995/152003330-ce41aedc-4522-4f29-af89-b1c714a4b4a5.png#gh-light-mode-only´)
+![pngtree-programmer-programming-image_2231448_2](https://user-images.githubusercontent.com/98794995/152008551-7153b974-7c6f-46fb-9d9e-2ed639167cfd.png#gh-light-mode-only´)
+
+# Using emoji #
+You can add emoji to your writing by typing :EMOJICODE:.
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+- Rendered emoji
+- Typing : will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press Tab or Enter to complete the highlighted result.
+- For a full list of available emoji and codes, check out the Emoji-Cheat-Sheet.
+- [x] :
