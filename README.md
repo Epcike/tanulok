@@ -6,6 +6,6 @@
 Most a ` sima quoting kód` tanulásánál járok. 
 ```most pedig a teljes szöveg kap egy hátteret ez pz```
 
+Command+K 
 DOCS
-![This is an image]
-(https://www.dreamstime.com/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-image136584574#_)
+![This is an image](https://www.dreamstime.com/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-image136584574#_)
